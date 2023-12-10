@@ -1,1 +1,3 @@
-This is the source code is based to the publicly available code of Jon Barron's public academic website: https://jonbarron.info/.
+This is the personal website of Stefanos Pertigkiozoglou. 
+
+The code was adjusted from Jon Barron's personal website https://jonbarron.info/
